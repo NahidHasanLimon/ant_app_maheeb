@@ -1,0 +1,94 @@
+.delete_btn{
+    background-color: #D62828;
+    border: none;
+    color: white;
+    /*padding: 0px 6px;*/
+    padding: 0px 6px 0px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 3px #CDCDCD;
+}
+.edit_btn{
+    background-color: #212121;
+    border: none;
+    color: white;
+    padding: 0px 6px 0px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 3px #CDCDCD;
+}
+
+.approve_btn{
+
+    background-color: #78C3A3;
+    border: none;
+    color: white;
+    /*padding: 0px 6px;*/
+    padding: 0px 6px 0px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    /*box-shadow: 0px 3px #CDCDCD;*/
+}
+
+.decline_btn{
+
+    background-color: #D62828;
+    border: none;
+    color: white;
+    /*padding: 0px 6px;*/
+    padding: 0px 6px 0px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    /*box-shadow: 0px 3px #CDCDCD;*/
+}
+.view_btn{
+
+    background-color: #212121;
+    border: none;
+    color: white;
+    /*padding: 0px 6px;*/
+    padding: 0px 6px 0px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0px 3px #CDCDCD;
+}
+
+
+.view_logs_btn {
+    background-color: #212121;
+    color: white;
+    padding: 1px 19px;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.assign_btn {
+    background-color: #212121;
+    color: white;
+    padding: 3px 18px;
+    font-size: 11px;
+    cursor: pointer;
+    border-radius: 23px;
+}
+.de_assign_btn {
+    background-color: #212121;
+    color: white;
+    padding: 3px 18px;
+    font-size: 11px;
+    cursor: pointer;
+    border-radius: 23px;
+}
+
+.fire_btn {
+    background-color: #212121;
+    color: white;
+    padding: 3px 30px;
+    font-size: 11px;
+    cursor: pointer;
+    border-radius: 23px;
+}

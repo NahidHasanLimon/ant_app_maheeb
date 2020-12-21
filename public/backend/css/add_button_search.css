@@ -1,0 +1,39 @@
+.inner-addon {
+    position: relative;
+}
+
+/* style glyph */
+.inner-addon .fa-search {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+/* align glyph */
+.left-addon .fa-search {
+    left: 0px;
+}
+
+.right-addon .fa-search {
+    right: 0px;
+}
+
+/* add padding  */
+.left-addon input {
+    padding-left: 30px;
+}
+
+.right-addon input {
+    padding-right: 30px;
+}
+
+.common_search
+{
+
+    /* height: calc(1.5em + 1.5rem + 2px); */
+    padding: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+.add_btn{ font-size: 12px}

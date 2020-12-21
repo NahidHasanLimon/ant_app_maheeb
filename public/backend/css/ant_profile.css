@@ -1,0 +1,78 @@
+.profile_main_content_area{
+
+    margin-top: 50px;
+}
+
+.session_image{
+    cursor: pointer;
+}
+
+#session_header{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    margin-top: 50px;
+    color: #000000;
+}
+
+#session_time{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.hour{
+    font-size: 12px;
+}
+
+#session_start_from{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+    /* border-bottom: 1px solid; */
+    /* background-color: #f8f8fb; */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+    padding-bottom: 7px;
+}
+
+.check_time{
+
+    font-size: 17px;
+    font-weight: bold;
+}
+#session_checked_in_time{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 12px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+}
+
+#session_view_btn{
+    background: #000000;
+    border-radius: 9.5px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 10px;
+    line-height: 2px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.session_text{
+    margin-top: -22px;
+}

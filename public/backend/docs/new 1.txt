@@ -1,0 +1,76 @@
+.application-offset .container-application:before {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 330px;
+    content: '';
+    pointer-events: none;
+    /* border-bottom-left-radius: 2.5rem; */
+    background-color: #212121;
+}
+
+.application .sidenav-user {
+    height: 172px;
+    padding-left: 116px;
+    position: relative;
+    /* margin-top: 22px; */
+    top: 14px;
+}
+.user_style{
+
+element.style 
+    margin-top: -94px;
+
+}
+.avatar img {
+    width: 81%;
+    border-radius: .25rem;
+    margin-top: 63px;
+}
+.test_img {
+    margin: 0 auto;
+    display: block;
+    width: 30%;
+}
+
+
+.mcd-menu_1 li {
+    position: relative;
+    /* float: left; */
+    width: 50%;
+    padding-bottom: -8px;
+    display: inline-block;
+}
+
+#top_icon a {
+    /* padding-right: 105px; */
+    padding-right: 82px;
+    padding-top: 20px;
+}
+
+
+.navbar-nav .media-pill .avatar {
+    width: 36px;
+    height: 36px;
+    margin-top: -119px;
+}
+
+
+.application .sidenav .nav-application
+
+----------------------------------------------------------------
+https://www.figma.com/proto/jTzpYPFfc2Vhb6cEpSDOi6/Antapp?node-id=635%3A2329&viewport=-302%2C456%2C0.1130976676940918&scaling=scale-down-width&fbclid=IwAR2HZHCV3dJN77AJym6_nQkze4btKYfpuBQUiOHLbm_lTP_KZeIXa_g7ONM
+
+
+https://www.figma.com/proto/jTzpYPFfc2Vhb6cEpSDOi6/Antapp?node-id=637%3A1057&viewport=129%2C348%2C0.053388748317956924&scaling=min-zoom
+
+
+https://www.figma.com/file/jTzpYPFfc2Vhb6cEpSDOi6/Antapp?node-id=607%3A0
+
+https://www.figma.com/proto/jTzpYPFfc2Vhb6cEpSDOi6/Antapp?node-id=628%3A1770&scaling=scale-down-width
+
+
+
+https://www.figma.com/proto/jTzpYPFfc2Vhb6cEpSDOi6/Antapp?node-id=279%3A36&scaling=scale-down-width&fbclid=IwAR2KenimTothE38TxcYB1e8YedbUFyHBUOROeWJvs4REmfGp-b1a7HSFC_M
